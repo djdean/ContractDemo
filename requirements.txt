@@ -1,0 +1,5 @@
+azure-ai-documentintelligence==1.0.0b2
+openai
+tiktoken
+streamlit
+semchunk
